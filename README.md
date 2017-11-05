@@ -16,3 +16,6 @@ In the subfolders `animal` and `models` there are examples of generated code.
 Since this "library" is mainly meant to be used as a template, there are no real
 executable programs here, except for the two bash scripts that use `sed` to
 generate the target `.go` files.
+
+Clearly, a go program can be created to make this more platform independent, but
+the point is to demonstrate actually how lo-tek a `go generate` solution can be.
